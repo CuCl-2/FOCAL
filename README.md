@@ -1,4 +1,6 @@
-# FOCAL: FOCAL: Fine-Grained Optimal-Transport-Driven Contrastive Alignment of Language and ECGs with Waveform Enhancement
+# FOCAL: Fine-Grained Optimal-Transport-Driven Contrastive Alignment of Language and ECGs with Waveform Enhancement
+
+![framework](docs/framework.png)
 
 ## Overview
 
